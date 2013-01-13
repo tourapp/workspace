@@ -55,3 +55,9 @@
 [submodule "jbundle/util/biorhythm"]
 	path = jbundle/util/biorhythm
 	url = https://github.com/jbundle/biorhythm
+[submodule "app/tourapp"]
+	path = app/tourapp
+	url = https://github.com/tourapp/tourapp
+[submodule "app/tourapp-parent"]
+	path = app/tourapp-parent
+	url = https://github.com/tourapp/tourapp-parent
