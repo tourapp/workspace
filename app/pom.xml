@@ -19,6 +19,8 @@
  
   <modules>
     <module>office</module>
+    <module>tourapp-master</module>
+    <module>tourapp</module>
   </modules>
 
 </project>
